@@ -1,9 +1,16 @@
 [
   {
     "title": "云海电视",
-    "time": "2022-07-14",
+    "time": "2022-07-24",
     "content": "电视直播",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/%E4%BA%91%E6%B5%B7%E7%94%B5%E8%A7%86_1.1.2.apk",
     "fileName": "yunhai.apk"
+  },
+  {
+    "title": "Pluto Player 1.0.1 TVbox二次开发版",
+    "time": "2022-07-24",
+    "content": "综合视频",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/PlutoPlayer_v1.0.1.apk",
+    "fileName": "livePlutoPlayer_v1.0.1.apk"
   }
 ]
