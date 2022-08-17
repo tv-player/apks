@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "1. 添加在线升级",
+  "version": "1.0.1",
+  "changelog": "优化功能",
   "force": true,
-  "download": "https://raw.githubusercontent.com/tv-player/apks/main/live/app-release.apk"
+  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视_1.0.1.apk"
 }
