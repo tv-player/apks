@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "优化功能",
-  "force": true,
-  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视_1.0.1.apk"
+  "version": "1.0.2",
+  "changelog": "1.设置添加切换线路\n2.功能优化",
+  "force": false,
+  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视_1.0.2.apk"
 }
