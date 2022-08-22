@@ -4,7 +4,9 @@ Telegram(https://t.me/tvplayerBox)
 
 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk)
 
-添加在线升级、添加内置线路，在线切换
+![home](img/code.png)
+
+添加在线升级、添加内置线路（定时更新），在线切换
 
 ## 使用说明
 
