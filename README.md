@@ -1,33 +1,17 @@
 # 一影视
 
+全新升级，脱离TVBox。 后续所有资源单独维护
+
 Telegram(https://t.me/tvplayerBox)
 
 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk)
 
 ![home](img/code.png)
 
-添加在线升级、添加内置线路（定时更新），在线切换
 
-## 使用说明
+## 一影视（多线路版）
 
-### 首页
+内置50条线路，所有数据来源于互联网，不保证可用性
 
-![home](img/444.png)
+[文档](多线路.md)
 
-### 设置
-
-#### 切换不同的站点
-
-![setting](img/setting7.png)
-![setting](img/322.png)
-
-#### 切换线路
-
-![setting](img/121.png)
-![setting](img/307.png)
-
-### 详细
-
-![home](img/631.png)
-![home](img/756.png)
-![home](img/916.png)
