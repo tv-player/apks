@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "changelog": "系统优化，速度更快，线路更稳",
-  "force": true,
-  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk"
+  "version": "1.2.1",
+  "changelog": "1.新增直播\n 2.功能优化",
+  "force": false,
+  "download": "http://mtw.so/5HZIZX"
 }
