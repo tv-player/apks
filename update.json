@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "changelog": "添加解析资源",
+  "version": "1.3.3",
+  "changelog": "1.修复解析问题\n2.优化爬虫引擎",
   "force": false,
-  "download": "http://mtw.so/5Br2eC"
+  "download": "http://mtw.so/5tRRod"
 }
