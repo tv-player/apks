@@ -1,6 +1,6 @@
 # 一影视
 
-全新JS爬虫引擎，运行更稳定。 后续所有资源单独维护
+全新JS爬虫引擎，运行更稳定
 
 Telegram(https://t.me/tvplayerBox)
 
