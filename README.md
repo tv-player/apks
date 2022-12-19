@@ -1,6 +1,6 @@
 # 一影视
 
-全新 JS 爬虫引擎，运行更稳定
+[站点收录](https://github.com/tv-player/apks/issues/14)
 
 Telegram(https://t.me/tvplayerBox)
 
