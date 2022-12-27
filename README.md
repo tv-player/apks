@@ -1,6 +1,5 @@
 # 一影视
 
-[站点收录](https://github.com/tv-player/apks/issues/14)
 
 Telegram(https://t.me/tvplayerBox)
 
