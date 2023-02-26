@@ -1,6 +1,6 @@
 {
   "version": "1.5.3",
-  "changelog": "解决安卓9+ 闪退问题",
-  "force": true,
+  "changelog": "解决部分机型闪退问题",
+  "force": false,
   "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/js-source/1.5.3/app.apk"
 }
