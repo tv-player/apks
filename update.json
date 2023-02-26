@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "changelog": "1.系统优化\n2.资源优化",
+  "version": "1.5.3",
+  "changelog": "解决安卓9+ 闪退问题",
   "force": true,
-  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/js-source/1.5.2/app.apk"
+  "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/js-source/1.5.3/app.apk"
 }
