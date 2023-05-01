@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "changelog": "优化资源配置",
+  "version": "1.5.5",
+  "changelog": "优化配置站\n系统优化",
   "force": false,
   "download": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/js-source/1.5.3/app.apk",
   "source": [
