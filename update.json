@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "changelog": "全新配置\n系统优化\n添加远程线路",
-  "force": false,
+  "force": true,
   "download": "https://gh.sb250.gq/https://raw.githubusercontent.com/tv-player/js-source/1.5.5/app.apk",
   "source": [
     "https://raw.githubusercontent.com/tv-player/js-source/",
